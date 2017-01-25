@@ -2,4 +2,4 @@
 
 phpinfo();
 
-echo 'hello world';
+echo 'hello world' . PHP_EOL;
